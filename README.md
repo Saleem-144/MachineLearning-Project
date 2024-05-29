@@ -1,2 +1,4 @@
-# MachineLearning-Project
-Created a Fraud chain email detection model 
+# Fraud Chain Email Detection Model
+Created a Machine learning model using python 
+<br>
+Author : Sohaib Saleem and Sadiq Ameen 
